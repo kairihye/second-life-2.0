@@ -1,7 +1,48 @@
+body{
+    padding-bottom: 50px;
+}
 .jumbotron{
     background-image: url("/css/skybox.png");
     color:#3CBCBC;
     margin-left: 270px;
     margin-right: 270px;
+    margin-top: 50px;
+}
 
+h1.rules{
+    color:#3CBCBC;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.mx-auto.congrats{
+    padding-left: 110px;
+}
+
+.teams{
+    color:#3CBCBC;
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+}
+.task{
+    color:#3CBCBC;
+    font-weight: bold;
+}
+.text-center{
+    font-family: 'Poiret One', cursive;
+    font-weight:bold;
+}
+.clue{
+    font-family: 'Fredericka the Great', cursive;
+    color: darkslategray;
+}
+.list-group{
+    font-family: 'Poiret One', cursive;
+    font-weight:bold;
+    color: red;
+}
+
+.items.list-group{
+    font-family: 'Poiret One', cursive;
+    font-weight:bold;
+    color:dimgray;
 }
