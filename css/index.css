@@ -2,7 +2,7 @@ body{
     padding-bottom: 50px;
 }
 .jumbotron{
-    background-image: url("/img/skybox.PNG");
+    background-image: url("img/skybox.png");
     color:#3CBCBC;
     margin-left: 270px;
     margin-right: 270px;
