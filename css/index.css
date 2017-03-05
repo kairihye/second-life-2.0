@@ -2,7 +2,7 @@ body{
     padding-bottom: 50px;
 }
 .jumbotron{
-    background-image: url("/css/img/skybox.png");
+    background-image: url("img/skybox.PNG");
     color:#3CBCBC;
     margin-left: 270px;
     margin-right: 270px;
@@ -37,12 +37,10 @@ h1.rules{
 }
 .list-group{
     font-family: 'Poiret One', cursive;
-    font-weight:bold;
     color: red;
 }
 
 .items.list-group{
     font-family: 'Poiret One', cursive;
-    font-weight:bold;
     color:dimgray;
 }
