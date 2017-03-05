@@ -1,21 +1,17 @@
+div{
+    margin-top: 40px;
+}
 body{
     padding-bottom: 50px;
 }
 .jumbotron{
     background-image: url("img/skybox.png");
     color:#3CBCBC;
-    margin-left: 270px;
-    margin-right: 270px;
-    margin-top: 50px;
 }
 
 h1.rules{
     color:#3CBCBC;
     font-family: 'Fredericka the Great', cursive;
-}
-
-.mx-auto.congrats{
-    padding-left: 110px;
 }
 
 .teams{
@@ -47,4 +43,12 @@ h1.rules{
 .items.list-group{
     font-family: 'Poiret One', cursive;
     color:dimgray;
+}
+h3.card-title{
+    font-family: 'Fredericka the Great', cursive;
+
+}
+.task3items.text-center{
+    font-size: 40px;
+    color:#3CBCBC;
 }
